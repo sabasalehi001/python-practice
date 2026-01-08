@@ -5,3 +5,4 @@
 - BudgetBuddyCLI ([folder](./budgetbuddycli))
 - ChromaShifter ([folder](./chromashifter))
 - ChronoSculptor ([folder](./chronosculptor))
+- FileFolioSort ([folder](./filefoliosort))
