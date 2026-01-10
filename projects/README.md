@@ -7,3 +7,4 @@
 - ChronoSculptor ([folder](./chronosculptor))
 - FileFolioSort ([folder](./filefoliosort))
 - LinguaLeap ([folder](./lingualeap))
+- TableWeaver ([folder](./tableweaver))
