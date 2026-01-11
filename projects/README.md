@@ -8,3 +8,4 @@
 - FileFolioSort ([folder](./filefoliosort))
 - LinguaLeap ([folder](./lingualeap))
 - TableWeaver ([folder](./tableweaver))
+- PrimePrism ([folder](./primeprism))
