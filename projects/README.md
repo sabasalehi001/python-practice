@@ -10,3 +10,4 @@
 - TableWeaver ([folder](./tableweaver))
 - PrimePrism ([folder](./primeprism))
 - AurumAlchemist ([folder](./aurumalchemist))
+- TempoTutor ([folder](./tempotutor))
