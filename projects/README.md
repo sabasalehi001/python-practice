@@ -12,3 +12,4 @@
 - AurumAlchemist ([folder](./aurumalchemist))
 - TempoTutor ([folder](./tempotutor))
 - SkyScribe ([folder](./skyscribe))
+- MemoMaestro ([folder](./memomaestro))
