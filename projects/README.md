@@ -13,3 +13,4 @@
 - TempoTutor ([folder](./tempotutor))
 - SkyScribe ([folder](./skyscribe))
 - MemoMaestro ([folder](./memomaestro))
+- QuizzicalQuokka ([folder](./quizzicalquokka))
