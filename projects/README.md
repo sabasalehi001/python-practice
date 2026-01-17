@@ -14,3 +14,4 @@
 - SkyScribe ([folder](./skyscribe))
 - MemoMaestro ([folder](./memomaestro))
 - QuizzicalQuokka ([folder](./quizzicalquokka))
+- VocabVoyager ([folder](./vocabvoyager))
