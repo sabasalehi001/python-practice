@@ -15,3 +15,4 @@
 - MemoMaestro ([folder](./memomaestro))
 - QuizzicalQuokka ([folder](./quizzicalquokka))
 - VocabVoyager ([folder](./vocabvoyager))
+- GeneScribeLite ([folder](./genescribelite))
