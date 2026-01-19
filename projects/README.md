@@ -16,3 +16,4 @@
 - QuizzicalQuokka ([folder](./quizzicalquokka))
 - VocabVoyager ([folder](./vocabvoyager))
 - GeneScribeLite ([folder](./genescribelite))
+- AquaClarity ([folder](./aquaclarity))
