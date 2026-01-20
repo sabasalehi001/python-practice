@@ -17,3 +17,4 @@
 - VocabVoyager ([folder](./vocabvoyager))
 - GeneScribeLite ([folder](./genescribelite))
 - AquaClarity ([folder](./aquaclarity))
+- CranialCartographer ([folder](./cranialcartographer))
