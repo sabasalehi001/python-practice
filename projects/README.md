@@ -18,3 +18,4 @@
 - GeneScribeLite ([folder](./genescribelite))
 - AquaClarity ([folder](./aquaclarity))
 - CranialCartographer ([folder](./cranialcartographer))
+- PixelWeaver ([folder](./pixelweaver))
