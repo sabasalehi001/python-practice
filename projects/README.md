@@ -19,3 +19,4 @@
 - AquaClarity ([folder](./aquaclarity))
 - CranialCartographer ([folder](./cranialcartographer))
 - PixelWeaver ([folder](./pixelweaver))
+- TextTwister ([folder](./texttwister))
