@@ -20,3 +20,4 @@
 - CranialCartographer ([folder](./cranialcartographer))
 - PixelWeaver ([folder](./pixelweaver))
 - TextTwister ([folder](./texttwister))
+- CellCycleSorter ([folder](./cellcyclesorter))
