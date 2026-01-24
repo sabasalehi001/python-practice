@@ -21,3 +21,4 @@
 - PixelWeaver ([folder](./pixelweaver))
 - TextTwister ([folder](./texttwister))
 - CellCycleSorter ([folder](./cellcyclesorter))
+- BrainBoostBlitz ([folder](./brainboostblitz))
