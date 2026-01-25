@@ -22,3 +22,4 @@
 - TextTwister ([folder](./texttwister))
 - CellCycleSorter ([folder](./cellcyclesorter))
 - BrainBoostBlitz ([folder](./brainboostblitz))
+- PasswordParagon ([folder](./passwordparagon))
