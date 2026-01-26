@@ -23,3 +23,4 @@
 - CellCycleSorter ([folder](./cellcyclesorter))
 - BrainBoostBlitz ([folder](./brainboostblitz))
 - PasswordParagon ([folder](./passwordparagon))
+- DataDigger ([folder](./datadigger))
