@@ -24,3 +24,4 @@
 - BrainBoostBlitz ([folder](./brainboostblitz))
 - PasswordParagon ([folder](./passwordparagon))
 - DataDigger ([folder](./datadigger))
+- NimbusNotepad ([folder](./nimbusnotepad))
