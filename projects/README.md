@@ -25,3 +25,4 @@
 - PasswordParagon ([folder](./passwordparagon))
 - DataDigger ([folder](./datadigger))
 - NimbusNotepad ([folder](./nimbusnotepad))
+- PrimordialSieve ([folder](./primordialsieve))
