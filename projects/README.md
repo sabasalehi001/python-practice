@@ -27,3 +27,4 @@
 - NimbusNotepad ([folder](./nimbusnotepad))
 - PrimordialSieve ([folder](./primordialsieve))
 - LegionaryLattice ([folder](./legionarylattice))
+- ItemSleuth ([folder](./itemsleuth))
