@@ -28,3 +28,4 @@
 - PrimordialSieve ([folder](./primordialsieve))
 - LegionaryLattice ([folder](./legionarylattice))
 - ItemSleuth ([folder](./itemsleuth))
+- DenariDabble ([folder](./denaridabble))
