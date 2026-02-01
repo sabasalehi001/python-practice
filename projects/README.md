@@ -29,3 +29,4 @@
 - LegionaryLattice ([folder](./legionarylattice))
 - ItemSleuth ([folder](./itemsleuth))
 - DenariDabble ([folder](./denaridabble))
+- Passwatch Sentinel ([folder](./passwatch-sentinel))
