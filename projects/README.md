@@ -32,3 +32,4 @@
 - Passwatch Sentinel ([folder](./passwatch-sentinel))
 - EchoCaveExplorer ([folder](./echocaveexplorer))
 - TempoTapestry ([folder](./tempotapestry))
+- AureusArbiter ([folder](./aureusarbiter))
