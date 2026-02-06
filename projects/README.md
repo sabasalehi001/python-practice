@@ -34,3 +34,4 @@
 - TempoTapestry ([folder](./tempotapestry))
 - AureusArbiter ([folder](./aureusarbiter))
 - ColorChordConductor ([folder](./colorchordconductor))
+- VestmentVault ([folder](./vestmentvault))
