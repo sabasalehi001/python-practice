@@ -35,3 +35,4 @@
 - AureusArbiter ([folder](./aureusarbiter))
 - ColorChordConductor ([folder](./colorchordconductor))
 - VestmentVault ([folder](./vestmentvault))
+- RegexRefiner ([folder](./regexrefiner))
