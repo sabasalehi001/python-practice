@@ -36,3 +36,4 @@
 - ColorChordConductor ([folder](./colorchordconductor))
 - VestmentVault ([folder](./vestmentvault))
 - RegexRefiner ([folder](./regexrefiner))
+- TidyTrove ([folder](./tidytrove))
