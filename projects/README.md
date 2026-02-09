@@ -37,3 +37,4 @@
 - VestmentVault ([folder](./vestmentvault))
 - RegexRefiner ([folder](./regexrefiner))
 - TidyTrove ([folder](./tidytrove))
+- CurioCabinetCLI ([folder](./curiocabinetcli))
