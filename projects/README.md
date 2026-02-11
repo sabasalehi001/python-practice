@@ -39,3 +39,4 @@
 - TidyTrove ([folder](./tidytrove))
 - CurioCabinetCLI ([folder](./curiocabinetcli))
 - GridGazer ([folder](./gridgazer))
+- DenariusDivider ([folder](./denariusdivider))
