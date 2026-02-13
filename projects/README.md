@@ -41,3 +41,4 @@
 - GridGazer ([folder](./gridgazer))
 - DenariusDivider ([folder](./denariusdivider))
 - RomanRhapsody ([folder](./romanrhapsody))
+- CipherScribe ([folder](./cipherscribe))
