@@ -42,3 +42,4 @@
 - DenariusDivider ([folder](./denariusdivider))
 - RomanRhapsody ([folder](./romanrhapsody))
 - CipherScribe ([folder](./cipherscribe))
+- PennyPincherProjections ([folder](./pennypincherprojections))
