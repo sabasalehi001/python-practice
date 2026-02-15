@@ -43,3 +43,4 @@
 - RomanRhapsody ([folder](./romanrhapsody))
 - CipherScribe ([folder](./cipherscribe))
 - PennyPincherProjections ([folder](./pennypincherprojections))
+- NumeriNavigator ([folder](./numerinavigator))
