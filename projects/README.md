@@ -44,3 +44,4 @@
 - CipherScribe ([folder](./cipherscribe))
 - PennyPincherProjections ([folder](./pennypincherprojections))
 - NumeriNavigator ([folder](./numerinavigator))
+- LexiLantern ([folder](./lexilantern))
