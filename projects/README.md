@@ -46,3 +46,4 @@
 - NumeriNavigator ([folder](./numerinavigator))
 - LexiLantern ([folder](./lexilantern))
 - CenturionCoder ([folder](./centurioncoder))
+- PrimePathfinder ([folder](./primepathfinder))
