@@ -47,3 +47,4 @@
 - LexiLantern ([folder](./lexilantern))
 - CenturionCoder ([folder](./centurioncoder))
 - PrimePathfinder ([folder](./primepathfinder))
+- StellarSurveyor ([folder](./stellarsurveyor))
