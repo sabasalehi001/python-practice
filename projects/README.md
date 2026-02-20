@@ -48,3 +48,4 @@
 - CenturionCoder ([folder](./centurioncoder))
 - PrimePathfinder ([folder](./primepathfinder))
 - StellarSurveyor ([folder](./stellarsurveyor))
+- AetheriumAllocator ([folder](./aetheriumallocator))
