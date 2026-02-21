@@ -49,3 +49,4 @@
 - PrimePathfinder ([folder](./primepathfinder))
 - StellarSurveyor ([folder](./stellarsurveyor))
 - AetheriumAllocator ([folder](./aetheriumallocator))
+- GeneGeode ([folder](./genegeode))
