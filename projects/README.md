@@ -50,3 +50,4 @@
 - StellarSurveyor ([folder](./stellarsurveyor))
 - AetheriumAllocator ([folder](./aetheriumallocator))
 - GeneGeode ([folder](./genegeode))
+- TelegraphicTranslator ([folder](./telegraphictranslator))
