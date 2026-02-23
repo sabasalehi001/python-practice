@@ -51,3 +51,4 @@
 - AetheriumAllocator ([folder](./aetheriumallocator))
 - GeneGeode ([folder](./genegeode))
 - TelegraphicTranslator ([folder](./telegraphictranslator))
+- RiddleRealmRunner ([folder](./riddlerealmrunner))
