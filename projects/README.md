@@ -53,3 +53,4 @@
 - TelegraphicTranslator ([folder](./telegraphictranslator))
 - RiddleRealmRunner ([folder](./riddlerealmrunner))
 - CrypticConch ([folder](./crypticconch))
+- Arithmicon ([folder](./arithmicon))
