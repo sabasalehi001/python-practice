@@ -54,3 +54,4 @@
 - RiddleRealmRunner ([folder](./riddlerealmrunner))
 - CrypticConch ([folder](./crypticconch))
 - Arithmicon ([folder](./arithmicon))
+- PrimalEcho ([folder](./primalecho))
