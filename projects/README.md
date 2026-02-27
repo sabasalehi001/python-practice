@@ -55,3 +55,4 @@
 - CrypticConch ([folder](./crypticconch))
 - Arithmicon ([folder](./arithmicon))
 - PrimalEcho ([folder](./primalecho))
+- HueHarvester ([folder](./hueharvester))
