@@ -56,3 +56,4 @@
 - Arithmicon ([folder](./arithmicon))
 - PrimalEcho ([folder](./primalecho))
 - HueHarvester ([folder](./hueharvester))
+- WhisperWeave ([folder](./whisperweave))
