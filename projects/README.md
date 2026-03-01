@@ -57,3 +57,4 @@
 - PrimalEcho ([folder](./primalecho))
 - HueHarvester ([folder](./hueharvester))
 - WhisperWeave ([folder](./whisperweave))
+- RuneCipher ([folder](./runecipher))
