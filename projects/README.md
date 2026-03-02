@@ -58,3 +58,4 @@
 - HueHarvester ([folder](./hueharvester))
 - WhisperWeave ([folder](./whisperweave))
 - RuneCipher ([folder](./runecipher))
+- BudgetBalanceBeacon ([folder](./budgetbalancebeacon))
