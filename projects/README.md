@@ -59,3 +59,4 @@
 - WhisperWeave ([folder](./whisperweave))
 - RuneCipher ([folder](./runecipher))
 - BudgetBalanceBeacon ([folder](./budgetbalancebeacon))
+- SignalSage ([folder](./signalsage))
