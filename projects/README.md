@@ -60,3 +60,4 @@
 - RuneCipher ([folder](./runecipher))
 - BudgetBalanceBeacon ([folder](./budgetbalancebeacon))
 - SignalSage ([folder](./signalsage))
+- RuneRover ([folder](./runerover))
