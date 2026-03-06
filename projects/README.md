@@ -62,3 +62,4 @@
 - SignalSage ([folder](./signalsage))
 - RuneRover ([folder](./runerover))
 - CipherCaddy ([folder](./ciphercaddy))
+- LexiLuminary ([folder](./lexiluminary))
