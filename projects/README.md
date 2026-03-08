@@ -64,3 +64,4 @@
 - CipherCaddy ([folder](./ciphercaddy))
 - LexiLuminary ([folder](./lexiluminary))
 - TrinketTracer ([folder](./trinkettracer))
+- TabularTapir ([folder](./tabulartapir))
