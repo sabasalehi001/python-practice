@@ -65,3 +65,4 @@
 - LexiLuminary ([folder](./lexiluminary))
 - TrinketTracer ([folder](./trinkettracer))
 - TabularTapir ([folder](./tabulartapir))
+- LexiLens ([folder](./lexilens))
