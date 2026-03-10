@@ -66,3 +66,4 @@
 - TrinketTracer ([folder](./trinkettracer))
 - TabularTapir ([folder](./tabulartapir))
 - LexiLens ([folder](./lexilens))
+- Biomancy's Bloom ([folder](./biomancy-s-bloom))
