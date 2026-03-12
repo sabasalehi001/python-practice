@@ -68,3 +68,4 @@
 - LexiLens ([folder](./lexilens))
 - Biomancy's Bloom ([folder](./biomancy-s-bloom))
 - PatternPulse ([folder](./patternpulse))
+- BudgetBloom ([folder](./budgetbloom))
