@@ -69,3 +69,4 @@
 - Biomancy's Bloom ([folder](./biomancy-s-bloom))
 - PatternPulse ([folder](./patternpulse))
 - BudgetBloom ([folder](./budgetbloom))
+- FlorinFlux ([folder](./florinflux))
