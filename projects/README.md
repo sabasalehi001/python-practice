@@ -70,3 +70,4 @@
 - PatternPulse ([folder](./patternpulse))
 - BudgetBloom ([folder](./budgetbloom))
 - FlorinFlux ([folder](./florinflux))
+- CipherCreek ([folder](./ciphercreek))
