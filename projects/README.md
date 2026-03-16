@@ -72,3 +72,4 @@
 - FlorinFlux ([folder](./florinflux))
 - CipherCreek ([folder](./ciphercreek))
 - RegexRipple ([folder](./regexripple))
+- CashCanvas ([folder](./cashcanvas))
