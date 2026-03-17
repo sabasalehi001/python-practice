@@ -73,3 +73,4 @@
 - CipherCreek ([folder](./ciphercreek))
 - RegexRipple ([folder](./regexripple))
 - CashCanvas ([folder](./cashcanvas))
+- PrimePaladin ([folder](./primepaladin))
