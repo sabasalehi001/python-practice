@@ -74,3 +74,4 @@
 - RegexRipple ([folder](./regexripple))
 - CashCanvas ([folder](./cashcanvas))
 - PrimePaladin ([folder](./primepaladin))
+- AetherArchive ([folder](./aetherarchive))
