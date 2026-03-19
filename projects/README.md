@@ -75,3 +75,4 @@
 - CashCanvas ([folder](./cashcanvas))
 - PrimePaladin ([folder](./primepaladin))
 - AetherArchive ([folder](./aetherarchive))
+- CogCrafterQuiz ([folder](./cogcrafterquiz))
