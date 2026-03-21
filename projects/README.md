@@ -77,3 +77,4 @@
 - AetherArchive ([folder](./aetherarchive))
 - CogCrafterQuiz ([folder](./cogcrafterquiz))
 - ShapeShifterSketcher ([folder](./shapeshiftersketcher))
+- TablatureTapestry ([folder](./tablaturetapestry))
