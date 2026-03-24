@@ -80,3 +80,4 @@
 - TablatureTapestry ([folder](./tablaturetapestry))
 - DotDashDecoder ([folder](./dotdashdecoder))
 - AetherAddress ([folder](./aetheraddress))
+- AetherArchivist ([folder](./aetherarchivist))
