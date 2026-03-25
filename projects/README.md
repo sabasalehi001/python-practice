@@ -81,3 +81,4 @@
 - DotDashDecoder ([folder](./dotdashdecoder))
 - AetherAddress ([folder](./aetheraddress))
 - AetherArchivist ([folder](./aetherarchivist))
+- CipherCrate ([folder](./ciphercrate))
