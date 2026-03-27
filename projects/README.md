@@ -83,3 +83,4 @@
 - AetherArchivist ([folder](./aetherarchivist))
 - CipherCrate ([folder](./ciphercrate))
 - ChronoCrafter ([folder](./chronocrafter))
+- PrimePetalPicker ([folder](./primepetalpicker))
