@@ -84,3 +84,4 @@
 - CipherCrate ([folder](./ciphercrate))
 - ChronoCrafter ([folder](./chronocrafter))
 - PrimePetalPicker ([folder](./primepetalpicker))
+- PatternPainter ([folder](./patternpainter))
