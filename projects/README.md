@@ -85,3 +85,4 @@
 - ChronoCrafter ([folder](./chronocrafter))
 - PrimePetalPicker ([folder](./primepetalpicker))
 - PatternPainter ([folder](./patternpainter))
+- CogCrafter ([folder](./cogcrafter))
