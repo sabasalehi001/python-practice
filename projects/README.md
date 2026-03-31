@@ -87,3 +87,4 @@
 - PatternPainter ([folder](./patternpainter))
 - CogCrafter ([folder](./cogcrafter))
 - CLI Unit Converter ([folder](./cli-unit-converter-2))
+- CLI Unit Converter ([folder](./cli-unit-converter-3))
