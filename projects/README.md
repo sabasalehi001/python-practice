@@ -91,3 +91,4 @@
 - CLI Unit Converter ([folder](./cli-unit-converter-4))
 - CLI Unit Converter ([folder](./cli-unit-converter-5))
 - CLI Unit Converter ([folder](./cli-unit-converter-6))
+- CLI Unit Converter ([folder](./cli-unit-converter-7))
